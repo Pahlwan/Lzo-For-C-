@@ -1,0 +1,10 @@
+C:\Users\Mukesh\source\repos\Lzo\Lzo\bin\Debug\Lzo.exe.config
+C:\Users\Mukesh\source\repos\Lzo\Lzo\bin\Debug\Lzo.exe
+C:\Users\Mukesh\source\repos\Lzo\Lzo\bin\Debug\Lzo.pdb
+C:\Users\Mukesh\source\repos\Lzo\Lzo\obj\Debug\Lzo.csproj.CoreCompileInputs.cache
+C:\Users\Mukesh\source\repos\Lzo\Lzo\obj\Debug\Lzo.exe
+C:\Users\Mukesh\source\repos\Lzo\Lzo\obj\Debug\Lzo.pdb
+C:\Users\Mukesh\source\repos\Lzo\Lzo\obj\Debug\Lzo.csprojAssemblyReference.cache
+C:\Users\Mukesh\source\repos\Lzo\Lzo\bin\Debug\LzoControl.dll
+C:\Users\Mukesh\source\repos\Lzo\Lzo\bin\Debug\LzoControl.pdb
+C:\Users\Mukesh\source\repos\Lzo\Lzo\obj\Debug\Lzo.csproj.CopyComplete

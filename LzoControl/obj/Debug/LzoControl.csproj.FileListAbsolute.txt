@@ -1,0 +1,6 @@
+C:\Users\Mukesh\source\repos\Lzo\LzoControl\bin\Debug\LzoControl.dll
+C:\Users\Mukesh\source\repos\Lzo\LzoControl\bin\Debug\LzoControl.pdb
+C:\Users\Mukesh\source\repos\Lzo\LzoControl\obj\Debug\LzoControl.csprojAssemblyReference.cache
+C:\Users\Mukesh\source\repos\Lzo\LzoControl\obj\Debug\LzoControl.csproj.CoreCompileInputs.cache
+C:\Users\Mukesh\source\repos\Lzo\LzoControl\obj\Debug\LzoControl.dll
+C:\Users\Mukesh\source\repos\Lzo\LzoControl\obj\Debug\LzoControl.pdb
